@@ -1,4 +1,7 @@
 <?php
+
+namespace EvoMark\EvoCoreWp\Vendor;
+
 /**
  * WP Async Request
  *
