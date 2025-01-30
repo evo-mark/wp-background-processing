@@ -1,6 +1,6 @@
 <?php
 
-namespace EvoMark\EvoCoreWp\Vendor
+namespace EvoMark\EvoCoreWp\Vendor;
 
 use stdClass;
 
